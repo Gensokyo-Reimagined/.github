@@ -1,5 +1,4 @@
 <div align="center">
-![GENSOU_3_paint_transparent](https://github.com/Gensokyo-Reimagined/.github/assets/77050201/8b8e2b00-146c-4fc4-a7db-8d970ea30e8c)
 
 ## Recreating Gensokyo in Minecraft, one block (of code) at a time!
 
