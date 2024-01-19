@@ -3,7 +3,7 @@
 ## Recreating Gensokyo in Minecraft, one block (of code) at a time!
 
 [![Discord](https://badgen.net/discord/online-members/U9fZSJJcte)](https://discord.gg/U9fZSJJcte)
-[![Donate](https://img.shields.io/badge/Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://www.patreon.com/gensokyoreimagined)
+[![Donate](https://img.shields.io/badge/Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://www.buymeacoffee.com/greimagined)
 
 ### What's It Like Trying to Recreate A Fantasy World in Minecraft?
 Keeping the experience mod free means we have to push minecraft to its limits, and we have the repositories here to show you how we did it.
