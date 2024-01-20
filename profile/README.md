@@ -1,11 +1,11 @@
 <p align="center">
-<img width="600px" style="padding: 0px 10px;" src="assets/gre_title.png"></a>
+<img width="600px" style="padding: 0px 10px;" src="/profile/assets/gre_title.png"></a>
 </p>
 
 <p align="center">
-<a href="https://discord.gg/U9fZSFFcte"><img width="150px" style="padding: 0px 10px;" src="assets/button_discord.png"></a>
-<a href="https://www.buymeacoffee.com/greimagined"><img width="150px" style="padding: 0px 10px;" src="assets/button_donate.png"></a>
-<a href="https://www.gensokyoreimagined.net"><img width="150px" style="padding: 0px 10px;" src="assets/button_learnmore.png"></a>
+<a href="https://discord.gg/U9fZSFFcte"><img width="150px" style="padding: 0px 10px;" src="/profile/assets/button_discord.png"></a>
+<a href="https://www.buymeacoffee.com/greimagined"><img width="150px" style="padding: 0px 10px;" src="/profile/assets/button_donate.png"></a>
+<a href="https://www.gensokyoreimagined.net"><img width="150px" style="padding: 0px 10px;" src="/profile/assets/button_learnmore.png"></a>
 </p>
 
 <h3 align="center">
